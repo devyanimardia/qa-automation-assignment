@@ -3,10 +3,7 @@
 <suite name="Default Suite">
     <test name="qa-automation-assignment">
         <classes>
-            <class name="com.crossasyst.yourlogo.qa.testcases.HomePageTest"/>
-            <class name="com.crossasyst.yourlogo.qa.testcases.LoginPageTest"/>
-            <class name="com.crossasyst.yourlogo.qa.testcases.CreateAccPageTest"/>
-            <class name="com.crossasyst.yourlogo.qa.testcases.MyAccountPageTest"/>
+            <class name="com.crossasyst.yourlogo.qa.testcases.CommonSteps"/>
         </classes>
     </test> <!-- qa-automation-assignment -->
 </suite> <!-- Default Suite -->
