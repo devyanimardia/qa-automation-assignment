@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default Suite">
+    <test name="qa-automation-assignment">
+        <classes>
+            <class name="com.crossasyst.yourlogo.qa.testcases.HomePageTest"/>
+            <class name="com.crossasyst.yourlogo.qa.testcases.LoginPageTest"/>
+            <class name="com.crossasyst.yourlogo.qa.testcases.CreateAccPageTest"/>
+            <class name="com.crossasyst.yourlogo.qa.testcases.MyAccountPageTest"/>
+        </classes>
+    </test> <!-- qa-automation-assignment -->
+</suite> <!-- Default Suite -->
